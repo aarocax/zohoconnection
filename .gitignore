@@ -1,0 +1,17 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/zoho-oauth-token.json
+/public/selfClient.php
+/var/
+/vendor/
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+/phpunit.xml
+

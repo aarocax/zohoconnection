@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "METRIC\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^3.5",
+        "symfony/var-dumper": "^7.0",
+        "symfony/dotenv": "^7.0"
+    }
+}
